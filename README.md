@@ -1,6 +1,6 @@
 # Exploring the Quantum Nature of Light
 
-### Skills: experience with infared light, correlated photons, coincidence counts, polarization, real-time optimization of photon counts, collumation, laser alignment, consturction of counting model with PSoC (code written by Dr. Masters) including milling circuit board and laser cutting, software built with python for visualization 
+### Skills: experience with infrared and ultraviolet light, correlated photons, coincidence counts, polarization, real-time optimization of photon counts, collumation, laser alignment, consturction of counting model with PSoC (code written by Dr. Masters) including milling circuit board and laser cutting, software built with python for visualization 
 
 ## Spontaneousp Parametric Downconversion
 
