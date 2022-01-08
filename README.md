@@ -4,51 +4,31 @@
 
 ### Skills: Ardunio, calibration, construction of power supply
 
-#### [Arduino code](https://github.com/jacobsc050/temperature-controller-arduino/blob/main/arduino-code.ino)
+Parts list that I countstructed and purchased to conduct experiements: 
+#### [Parts List](https://github.com/jacobsc050/quantum-mechanics/blob/main/Parts%20list.xlsx)
+Note: the following code was built by Justin Smethers and I made some minor adjustments to make it more user friendly.
+#### [Python code](https://github.com/jacobsc050/quantum-mechanics/blob/main/coincidence-counting.py)
+
+This is a photo of the output of the above code:
+<img src=https:https://github.com/jacobsc050/quantum-mechanics/blob/main/assets/GetAttachmentThumbnail.png>
 
 
-Using an arduino, thermistor, and imersion water heater I explored keeping the temperature of water constant.
 
-I built a power supply box out of an electrical switch, power chord, and an outlet box which was controlled by the Ardunio. 
 
-Inputs went into the Ardunio from a thermistor which was calibrated (converting voltage differences to a temperature) from the following data.
 
-<img src=https://github.com/jacobsc050/temperature-controller-arduino/blob/main/image.png>
-
-When the thermistor input a temperature that was not the target tempererature the Ardunio signalled the power supply to switch the heater on or off. 
 
 ## Proving the Existance of Photons 
 
 ### Skills: Ardunio, calibration, construction of power supply
 
-#### [Arduino code](https://github.com/jacobsc050/temperature-controller-arduino/blob/main/arduino-code.ino)
-
-
-Using an arduino, thermistor, and imersion water heater I explored keeping the temperature of water constant.
-
-I built a power supply box out of an electrical switch, power chord, and an outlet box which was controlled by the Ardunio. 
-
-Inputs went into the Ardunio from a thermistor which was calibrated (converting voltage differences to a temperature) from the following data.
-
-<img src=https://github.com/jacobsc050/temperature-controller-arduino/blob/main/image.png>
-
-When the thermistor input a temperature that was not the target tempererature the Ardunio signalled the power supply to switch the heater on or off. 
 
 ## Single Photon Interference 
 ### Skills: Ardunio, calibration, construction of power supply
 
-#### [Arduino code](https://github.com/jacobsc050/temperature-controller-arduino/blob/main/arduino-code.ino)
 
 
-Using an arduino, thermistor, and imersion water heater I explored keeping the temperature of water constant.
 
-I built a power supply box out of an electrical switch, power chord, and an outlet box which was controlled by the Ardunio. 
 
-Inputs went into the Ardunio from a thermistor which was calibrated (converting voltage differences to a temperature) from the following data.
-
-<img src=https://github.com/jacobsc050/temperature-controller-arduino/blob/main/image.png>
-
-When the thermistor input a temperature that was not the target tempererature the Ardunio signalled the power supply to switch the heater on or off. 
 
 
 
