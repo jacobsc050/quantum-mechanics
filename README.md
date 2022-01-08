@@ -9,7 +9,8 @@ Parts list that I countstructed and purchased to conduct experiements:
 Note: the following code was built by Justin Smethers and I made some minor adjustments to make it more user friendly.
 #### [Python code](https://github.com/jacobsc050/quantum-mechanics/blob/main/coincidence-counting.py)
 
-This is a photo of the output of the above code:
+This is a photo of the output of the above code: <br/>
+
 <img src=https://github.com/jacobsc050/quantum-mechanics/blob/main/assets/GetAttachmentThumbnail.png height = 300px width = 300 px>
 
 
