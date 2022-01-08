@@ -2,8 +2,9 @@
 
 ### Skills: experience with infrared and ultraviolet light, correlated photons, coincidence counts, polarization, real-time optimization of photon counts, collumation, laser alignment, consturction of counting model with PSoC (code written by Dr. Masters) including milling circuit board and laser cutting, software built with python for visualization 
 
-## Spontaneousp Parametric Downconversion
+I began working on this project my senior year of undergrad earning me Outstanding Physics Research of the Year at Purdue Fort Wayne. I worked professors, LTLs, GTAs,and undergraduates. This project includes four experiements all focused in the photon model of light. Tanjentally, Spencer Kelham and I worked on building cost effect Single Photon Counting Machines which will also be discussed below.
 
+## Spontaneous Parametric Downconversion
 ### Skills: coincidence counts, BBO crystals, Single Photon Counting Machines 
 
 
