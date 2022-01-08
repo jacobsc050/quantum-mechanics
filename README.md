@@ -10,7 +10,7 @@ Note: the following code was built by Justin Smethers and I made some minor adju
 #### [Python code](https://github.com/jacobsc050/quantum-mechanics/blob/main/coincidence-counting.py)
 
 This is a photo of the output of the above code:
-<img src=https://github.com/jacobsc050/quantum-mechanics/blob/main/assets/GetAttachmentThumbnail.png>
+<img src=https://github.com/jacobsc050/quantum-mechanics/blob/main/assets/GetAttachmentThumbnail.png height = 300px width = 300 px>
 
 
 
