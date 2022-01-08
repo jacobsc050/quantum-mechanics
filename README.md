@@ -1,11 +1,14 @@
 # Exploring the Quantum Nature of Light
 
-## Spontaneous Parametric Downconversion
+### Skills: experience with infared light, correlated photons, coincidence counts, polarization, real-time optimization of photon counts, collumation, laser alignment, consturction of counting model with PSoC (code written by Dr. Masters) including milling circuit board and laser cutting, software built with python for visualization 
 
-### Skills: Ardunio, calibration, construction of power supply
+## Spontaneousp Parametric Downconversion
+
+### Skills: coincidence counts, BBO crystals, Single Photon Counting Machines 
+
 
 Parts list that I countstructed and purchased to conduct experiements: 
-#### [Parts List](https://github.com/jacobsc050/quantum-mechanics/blob/main/Parts%20list.xlsx)
+#### [Parts list with pricing](https://github.com/jacobsc050/quantum-mechanics/blob/main/Parts%20list.xlsx)
 Note: the following code was built by Justin Smethers and I made some minor adjustments to make it more user friendly.
 #### [Python code](https://github.com/jacobsc050/quantum-mechanics/blob/main/coincidence-counting.py)
 
@@ -15,8 +18,8 @@ This is a photo of the output of the above code: <br/>
 
 
 
-
-
+## Window Length for Photon Counts with a PSoC
+### Skills: Ardunio, calibration, construction of power supply
 
 ## Proving the Existance of Photons 
 
