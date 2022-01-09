@@ -26,7 +26,7 @@ Note: the following code was built by Justin Smethers and I made some minor adju
 This is a photo of the output of the above code: <br/>
 <img src=https://github.com/jacobsc050/quantum-mechanics/blob/main/assets/GetAttachmentThumbnail.png height = 300px width = 300 px>
 
-I then used the photon counts and statistical methods to show that the coincidence counts are larger than random would allow, so the counted photons must be correlated. 
+I then used photon counts and statistical methods to show that the coincidence counts are larger than random would allow, so the counted photons must be correlated. 
 
 
 
@@ -42,12 +42,12 @@ Using 3-fold coincidence counts I used 2nd order coherence calculations to show 
 
 Worked on with Cully O'Meara, Logan Reidy, and Alex Bushe
 
-Using two yttrium beam displace I produced a interferometer that create path length distances that a modified by polarization of light.
+Using two yttrium beam displace I produced a interferometer that create path length distances that are modified by the polarization of light entering the displacers.
 
 ## Window Length for Photon Counts with a PSoC
 ### Skills:  testing counting module, neutral gradients, white light source from incandescent light bulb
 
-I found the window for coincidence counts to be 10 ns for our counter. This was done by collecting photons using 2 channels and using neutral gradients to decrease the magntiude of light. The total counts from both channels then multiplied. The total is then graphed and the slope is the length of the counting window.
+I found the window for coincidence counts to be 10 ns with uncertainty of 0.1 ns for our counter.
 
 Worked on with William McLane
 
@@ -56,7 +56,7 @@ Worked on with William McLane
 
 Worked on with Spencer Kelham
 
-I worked on building a circuit for an LED based single photon detector. 
+I worked on building a low-cost circuit for an LED based single photon detector.
 
 
 
