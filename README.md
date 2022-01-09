@@ -14,7 +14,7 @@ I began working on this project my senior year of undergrad earning me Outstandi
 Worked on with Jucoen Yeater
 
 Parts list that I countstructed and purchased to conduct experiements: 
-#### [Parts list with pricing](https://github.com/jacobsc050/quantum-mechanics/blob/main/Parts%20list.xlsx)
+#### [Parts list with pricing](https://github.com/jacobsc050/quantum-mechanics/blob/main/assets/parts%20list.pdf)
 Note: the following code was built by Justin Smethers and I made some minor adjustments to make it more user friendly.
 #### [Python code](https://github.com/jacobsc050/quantum-mechanics/blob/main/coincidence-counting.py)
 
