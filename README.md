@@ -2,7 +2,9 @@
 
 ### Skills: experience with infrared and ultraviolet light, correlated photons, coincidence counts, polarization, real-time optimization of photon counts, collumation, laser alignment, consturction of counting module with PSoC including milling circuit board and laser cutting, software built with python for visualization, elecronic testing equipment 
 
+
 Research advisor: Dr. Mark Master
+Past researchers I worked with: Justin Smethers
 
 I began working on this project my senior year of undergrad earning me Outstanding Physics Research of the Year at Purdue Fort Wayne. I've worked with professors, LTLs, GTAs,and undergraduates on this project for about two and a half years. This project includes three experiements all focused on the photon model of light. Tanjentally, Spencer Kelham and I worked on building cost effect Single Photon Counting Machines and we determed the window for photon counts of our PSoC counting module, which will all be discussed below.
 
