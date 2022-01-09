@@ -8,7 +8,6 @@ Past researchers I worked with: Justin Smethers
 
 I began working on this project my senior year of undergrad earning me Outstanding Physics Research of the Year at Purdue Fort Wayne. I've worked with professors, LTLs, GTAs,and undergraduates on this project for about two and a half years. This project includes three experiements all focused on the photon model of light. Tanjentally, Spencer Kelham and I worked on building cost effect Single Photon Counting Machines and we determed the window for photon counts of our PSoC counting module, which will all be discussed below.
 
-
 Parts list that I countstructed and purchased to conduct experiements: 
 #### [Parts list with pricing](https://github.com/jacobsc050/quantum-mechanics/blob/main/assets/parts%20list.pdf)
 
@@ -28,8 +27,6 @@ This is a photo of the output of the above code: <br/>
 
 I then used photon counts and statistical methods to show that the coincidence counts are larger than random would allow, so the counted photons must be correlated. 
 
-
-
 ## Proving the Existance of Photons 
 ### Skills: 2nd order coherence, polarizing beam splitting cubes, 3-fold coincidence counts
 
@@ -47,9 +44,9 @@ Using two yttrium beam displace I produced a interferometer that create path len
 ## Window Length for Photon Counts with a PSoC
 ### Skills:  testing counting module, neutral gradients, white light source from incandescent light bulb
 
-I found the window for coincidence counts to be 10 ns with uncertainty of 0.1 ns for our counter.
-
 Worked on with William McLane
+
+I found the window for coincidence counts to be 10 ns with uncertainty of 0.1 ns for our counter.
 
 ## Constructing a low-cost Single Photon Counting Machine
 ### Skills: reversed biased diodes, quenching avalanche currents, designing and fabricating circuit boards
