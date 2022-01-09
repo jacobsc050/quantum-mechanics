@@ -1,6 +1,6 @@
 # Exploring the Quantum Nature of Light
 
-### Skills: experience with infrared and ultraviolet light, correlated photons, coincidence counts, polarization, real-time optimization of photon counts, collumation, laser alignment, consturction of counting module with PSoC including milling circuit board and laser cutting, software built with python for visualization, elecronic testing equipment 
+### Skills: experience with infrared and ultraviolet light, correlated photons, coincidence counts, polarization, real-time optimization of photon counts, collumation, laser alignment, consturction of counting module with PSoC including milling circuit board and laser cutting, software built with python for visualization, electronic testing equipment 
 
 
 Research advisor: Dr. Mark Master </br>
